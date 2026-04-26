@@ -1,5 +1,5 @@
 /* =============================================================
-   Terrizzi — custom styles
+   TERRIZZI — custom styles
    ============================================================= */
 
 /* Transitions ------------------------------------------------- */
@@ -38,7 +38,6 @@
 #header .logo img {
 	height: 3.5em;
 	display: block;
-	filter: brightness(0) invert(1);
 }
 
 #header .logo .logo-name {
@@ -62,7 +61,6 @@
 	opacity: 0.55;
 	display: block;
 	margin: 0 auto 1.2em;
-	filter: brightness(0) invert(1);
 }
 
 #footer ul.icons {
